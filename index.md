@@ -4,24 +4,20 @@ layout: homepage
 
 ## About Me
 
-I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Meeeeeee <a href="https://www.nyu.edu/" target="_blank"> Beijing Language and Culture University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
+Hello, my name is Mengyi Lu.  I graduated from <a href="https://www.blcu.edu/" target="_blank"> Beijing Language and Culture University</a> in 2020, focusing on natural language processing and
+working under the mentorship of Prof.<a href="https://liupengyuan.github.io/" target="_blank"> Liu Pengyuan</a>. My research involves relation extraction, question-answering systems, and semantic analysis.
 
-In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
-Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
+From 2020 to 2021, I worked as a natural language processing algorithm engineer at <a href="https://www.soundai.com/" target="_blank"> Sound Intelligence Technology Company</a>. I was mainly responsible for the intelligent dialogue system and music recommendation service in the smart speaker project.
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
+From 2021 to 2023, I work as an algorithm engineer in the <a href="https://www.soundai.com/" target="_blank"> Weibo Advertising Recommendation Group</a>, responsible for ad ranking model optimization, user behavior analysis and mining, and text content mining.
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
-
+Outside of academia and industry, I have worked part-time as a photographer, serving hundreds of clients. Additionally, I also worked as an outdoor guide in Beijing. I’m also passionate about running. I have completed three marathons and multiple half-marathons. I also have a keen interest in cooking, reading, and writing.
 
 ## Research Interests
 - **Manifold Learning:** positive semi-definite manifolds learning
 - **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Recommendation:** functional regression, and clustering methods
+- **Computer Systems:** stream processing systems, distributed systems
 
 
 ## Awards
@@ -33,9 +29,6 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/talks.md %}
-
-
-
 
 
 
