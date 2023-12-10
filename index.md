@@ -7,18 +7,17 @@ layout: homepage
 Hello, my name is Mengyi Lu.  I graduated from <a href="https://www.blcu.edu/" target="_blank"> Beijing Language and Culture University</a> in 2020, focusing on natural language processing and
 working under the mentorship of Prof.<a href="https://liupengyuan.github.io/" target="_blank"> Liu Pengyuan</a>. My research involves relation extraction, question-answering systems, and semantic analysis.
 
+From 2021 to 2023, I worked as an algorithm engineer in the <a href="https://www.soundai.com/" target="_blank"> Weibo Advertising Recommendation Group</a>, responsible for ad ranking model optimization, user behavior analysis and mining, and text content mining.
+
 From 2020 to 2021, I worked as a natural language processing algorithm engineer at <a href="https://www.soundai.com/" target="_blank"> Sound Intelligence Technology Company</a>. I was mainly responsible for the intelligent dialogue system and music recommendation service in the smart speaker project.
 
-From 2021 to 2023, I work as an algorithm engineer in the <a href="https://www.soundai.com/" target="_blank"> Weibo Advertising Recommendation Group</a>, responsible for ad ranking model optimization, user behavior analysis and mining, and text content mining.
 
 Outside of academia and industry, I have worked part-time as a photographer, serving hundreds of clients. Additionally, I also worked as an outdoor guide in Beijing. I’m also passionate about running. I have completed three marathons and multiple half-marathons. I also have a keen interest in cooking, reading, and writing.
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Recommendation:** functional regression, and clustering methods
-- **Computer Systems:** stream processing systems, distributed systems
-
+- **Natural Language Processing:** dialogue system, question answering, knowledge graph
+- **Recommendation:** information retrieval, computational advertising, search engines
+- **Computer Systems:** stream processing systems, distributed systems, large-scale data processing
 
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
@@ -29,8 +28,6 @@ Outside of academia and industry, I have worked part-time as a photographer, ser
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/talks.md %}
-
-
 
 
 ## Collaboration
