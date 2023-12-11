@@ -1,4 +1,4 @@
----
+![image](https://github.com/lulumengyi/lulumengyi.github.io/assets/32284131/726ba1a0-1ba6-4dca-9607-1e621920cdf5)---
 layout: homepage
 ---
 
@@ -33,6 +33,10 @@ Outside of academia and industry, I have worked part-time as a photographer, ser
 
 {% include_relative _includes/talks.md %}
 
+## Competition
+- **[Aug. 2020]** <a href="" target="_blank">*Question Answering Summarization and Inference Competition*</a> Baidu Ai Studio **Ranking 11/1000**.
+- **[Jan. 2019]** <a href="" target="_blank">*Language and Intelligence Technology Competition-Information Extraction Task*</a> Baidu Ai Studio **Ranking 12/1000**.
+- - **[Aug. 2018]** <a href="" target="_blank">*Baidu Reading Comprehension Technology Competition*</a> Baidu Ai Studio **Ranking 8/1000**.
 
 ## Skills
 
@@ -46,11 +50,9 @@ Outside of academia and industry, I have worked part-time as a photographer, ser
 {% include_relative _includes/services.md %}
 
 
-## Resources
 
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
+
+
 
 
 
