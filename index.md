@@ -1,4 +1,4 @@
-![image](https://github.com/lulumengyi/lulumengyi.github.io/assets/32284131/726ba1a0-1ba6-4dca-9607-1e621920cdf5)---
+---
 layout: homepage
 ---
 
