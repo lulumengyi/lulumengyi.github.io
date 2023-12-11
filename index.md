@@ -27,7 +27,7 @@ Outside of academia and industry, I have worked part-time as a photographer, ser
 - **[Jun. 2016]** <a href="http://www.hengshuilakemarathon.com/" target="_blank">  Hengshui Lake Marathon Finisher Medal </a>
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/projects.md %}
 
