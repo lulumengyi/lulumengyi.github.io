@@ -1,4 +1,4 @@
-![image](https://github.com/lulumengyi/lulumengyi.github.io/assets/32284131/f86c08a3-7b19-4b55-9d53-1571faa259fd)## Services
+## Services
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
