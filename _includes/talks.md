@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TTHS2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/1911702317361_.pic.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Weibo</abbr>
   </div>
 
@@ -34,7 +34,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ENAR2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/1901702317273_.pic.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Weibo</abbr>
   </div>
 
@@ -58,7 +58,8 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/fdawg.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/1891702317214_.pic.jpg
+" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SoundAi</abbr>
   </div>
 
@@ -81,7 +82,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JSM2022.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/1881702317157_.pic.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SoundAi</abbr>
   </div>
 
@@ -105,7 +106,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JSM2021.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/1871702317077_.pic.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">JD</abbr>
   </div>
 
