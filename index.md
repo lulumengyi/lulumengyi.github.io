@@ -20,9 +20,10 @@ Outside of academia and industry, I have worked part-time as a photographer, ser
 - **Computer Systems:** stream processing systems, distributed systems, large-scale data processing
 
 ## Awards
-- **[Jun. 2020]** <a href="" target="_blank">*First-class Scholarship Recipient*</a>
-- **[Jun. 2017]** <a href="" target="_blank"> Outstanding Graduates at the Municipal Level </a>
-
+- **[Jun. 2020]** <a href="" target="_blank">*First-class Scholarship Recipient*</a> in Beijing Language and Culture University
+- **[Jun. 2017]** <a href="" target="_blank"> Outstanding Graduates at the Municipal Level </a> in Hebei Normal University
+- **[Jun. 2016]** <a href="" target="_blank"> Outstanding Students at the school level </a> in Hebei Normal University
+- **[Jun. 2016]** <a href="http://www.hengshuilakemarathon.com/" target="_blank">  Hengshui Lake Marathon Finisher Medal </a>
 
 <!-- {% include_relative _includes/publications.md %} -->
 
