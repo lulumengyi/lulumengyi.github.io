@@ -73,7 +73,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/1861702316930_.pic.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">DCCS</abbr>
   </div>
 
@@ -91,27 +91,6 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="" target="_blank">Question Answering Summarization and Inference Competition</a></div>
-    <div class="author">Liu Pengyuan,<strong>Mengyi Lu</strong> </div>
-    <div class="periodical"><em>Baidu AI Studio, 2019, Online</em></div>
-    <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
-    </div>
-  </div>
-</div>
-</li>
   
   
 <br>
