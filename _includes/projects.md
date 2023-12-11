@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Automatic Summarization System</a></div>
+    <div class="title"><a href="" target="_blank">Automatic Summarization System</a></div>
     <div class="author"><strong>Mengyi Lu</strong> </div>
     <div class="periodical"><em>National Language Resources Monitoring and Research Print Media Center, 2019, Beijing, China</em></div>
     <div class="links">
@@ -34,7 +34,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Automated Construction and Question-Answering Application of a Knowledge Graph for Cultural Artifacts</a></div>
+    <div class="title"><a href="" target="_blank">Automated Construction and Question-Answering Application of a Knowledge Graph for Cultural Artifacts</a></div>
     <div class="author"><strong>Mengyi Lu</strong> </div>
     <div class="periodical"><em>Graduate Thesis, 2020, Beijing, China</em></div>
     <div class="links">
@@ -56,7 +56,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Semantic Relationship Resources Between Nouns And The Automatic Classification Method Of Relationships Integrating Multiple Knowledge Sources</a></div>
+    <div class="title"><a href="" target="_blank">Semantic Relationship Resources Between Nouns And The Automatic Classification Method Of Relationships Integrating Multiple Knowledge Sources</a></div>
     <div class="author">Liu Pengyuan,Shao Yanqiu, <strong>Mengyi Lu</strong> </div>
     <div class="periodical"><em>Beijing Natural Science Foundation Project, 2019, Beijing, China</em></div>
     <div class="links">
@@ -78,7 +78,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Dynamic Circulating Corpus System Construction</a></div>
+    <div class="title"><a href="" target="_blank">Dynamic Circulating Corpus System Construction</a></div>
     <div class="author">Liu Pengyuan,<strong>Mengyi Lu</strong> </div>
     <div class="periodical"><em>Beijing Natural Science Foundation Project, 2019, Beijing, China</em></div>
     <div class="links">
