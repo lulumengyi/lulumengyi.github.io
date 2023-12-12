@@ -7,7 +7,7 @@ layout: homepage
 Hello, my name is Mengyi Lu.  I obtained my master's degree from <a href="https://www.blcu.edu/" target="_blank"> Beijing Language and Culture University</a> in 2020, with a focus on natural language processing.
 I worked under the mentorship of Prof.<a href="https://liupengyuan.github.io/" target="_blank"> Liu Pengyuan</a>. My research involves **relation extraction**, **question-answering systems**, and **semantic analysis**.
 
-From 2021 to 2023, I worked as an algorithm engineer in the <a href="https://www.soundai.com/" target="_blank"> Weibo Advertising Recommendation Group</a>. My responsibilities included **ad ranking model optimization**, **user behavior research**, and **text content analysis**.
+From 2021 to 2023, I worked as an algorithm engineer in the Advertising Recommendation Group at<a href="https://www.weibo.com/" target="_blank">Sina Weibo Corp.</a>. My responsibilities included **ad ranking model optimization**, **user behavior research**, and **text content analysis**.
 
 From 2020 to 2021, I was employed at <a href="https://www.soundai.com/" target="_blank"> SoundAI Technology Company</a>, as an algorithm engineer for natural language processing. I was primarily in charge of **the intelligent dialogue system** and **music recommendation service** for chatbot.
 
