@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Mengyi Lu.  I got my master's degree from <a href="https://www.blcu.edu/" target="_blank"> Beijing Language and Culture University</a> in 2020, focusing on natural language processing.
+Hello, my name is Mengyi Lu.  I obtained my master's degree from <a href="https://www.blcu.edu/" target="_blank"> Beijing Language and Culture University</a> in 2020, with a focus on natural language processing.
 I worked under the mentorship of Prof.<a href="https://liupengyuan.github.io/" target="_blank"> Liu Pengyuan</a>. My research involves **relation extraction**, **question-answering systems**, and **semantic analysis**.
 
-From 2021 to 2023, I worked as an algorithm engineer in the <a href="https://www.soundai.com/" target="_blank"> Weibo Advertising Recommendation Group</a>, responsible for **ad ranking model optimization**, **user behavior analysis and mining**, and **text content analysis**.
+From 2021 to 2023, I worked as an algorithm engineer in the <a href="https://www.soundai.com/" target="_blank"> Weibo Advertising Recommendation Group</a>. My responsibilities included **ad ranking model optimization**, **user behavior research**, and **text content analysis**.
 
-From 2020 to 2021, I worked as a natural language processing algorithm engineer at <a href="https://www.soundai.com/" target="_blank"> SoundAI Technology Company</a>. I was mainly responsible for **the intelligent dialogue system** and **music recommendation service** in the smart speaker project.
+From 2020 to 2021, I was employed at <a href="https://www.soundai.com/" target="_blank"> SoundAI Technology Company</a>, as an algorithm engineer for natural language processing. I was primarily in charge of **the intelligent dialogue system** and **music recommendation service** for chatbot.
 
-From 2020 to 2018, I worked as a natural language processing algorithm engineer at <a href="https://www.jd.com/" target="_blank"> JD.com, Inc.</a>. I was mainly responsible for **constructing question-answering (QA) system** used in the customer service domain and
+From 2018 to 2020, I worked as a natural language processing algorithm engineer at <a href="https://www.jd.com/" target="_blank"> JD.com, Inc.</a> I was mainly responsible for **constructing question-answering (QA) system** used in the customer service domain and
 embedding pre-training for **user-behavior network**
 
 
