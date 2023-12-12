@@ -41,7 +41,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/ENAR2023.pdf" target="_blank">Social Media User Behavior Sequence Modeling</a></div>
     <div class="author"><strong>Mengyi Lu</strong></div>
-    <div class="periodical"><em>Sina Weibo Corp<strong>(ENAR)</strong>, 2023, Beijing, China</em></div>
+    <div class="periodical"><em>Sina Weibo Corp<strong></strong>, 2023, Beijing, China</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -66,7 +66,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/JSM2022.pdf" target="_blank"> Knowledge-based Question Answering for Chatbot</a></div>
     <div class="author"><strong>Mengyi Lu</strong>, Cong gao</div>
-    <div class="periodical"><em>SoundAI Technology Co., Ltd <strong>(FDAWG)</strong>, 2022, Beijing, China</em></div>
+    <div class="periodical"><em>SoundAI Technology Co., Ltd <strong></strong>, 2022, Beijing, China</em></div>
     <div class="links">
       <a href="https://github.com/lulumengyi/KGQA-for-chatbot" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -89,7 +89,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/JSM2022.pdf" target="_blank">Music Recommendation System Construction for Chatbot</a></div>
     <div class="author"><strong>Mengyi Lu</strong>, Liangbin Li</div>
-    <div class="periodical"><em>SoundAI Technology Co., Ltd <strong>(JSM)</strong>, 2021, Beijing, China</em></div>
+    <div class="periodical"><em>SoundAI Technology Co., Ltd <strong></strong>, 2021, Beijing, China</em></div>
     <div class="links">
       <a href="https://github.com/lulumengyi/FlinkRecommendationSystem" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -113,7 +113,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/JSM2021.pdf" target="_blank">Personal User Behavior Network Embedding Pre-training</a></div>
     <div class="author"><strong>Mengyi Lu</strong></div>
-    <div class="periodical"><em>JD.com, Inc <strong>(JSM)</strong>, 2019, Beijing, China</em></div>
+    <div class="periodical"><em>JD.com, Inc <strong></strong>, 2019, Beijing, China</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
