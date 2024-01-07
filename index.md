@@ -18,9 +18,10 @@ embedding pre-training for **user-behavior network**
 Outside of academia and industry, I have worked part-time as a **photographer**, serving hundreds of clients. Additionally, I worked as an **outdoor guide** in Beijing. I’m also passionate about running. I have completed three **marathons** and multiple half-marathons. I also have a keen interest in cooking, reading, and writing.
 
 ## Research Interests
-- **Natural Language Processing:** dialogue system, semantic analysis, conversational recommender systems
+- **Natural Language Processing:** dialogue system, semantic analysis, relation extraction
 - **Recommendation:** information retrieval, computational advertising, search engines
-- **Computer Systems:** stream processing systems, distributed systems, large-scale data processing
+- **Computer Systems:** data-mining, distributed systems, large-scale data processing
+- - **Human-Centric Technology:** EduTech, computational sociology
 
 ## Awards
 - **[Jun. 2021]** <a href="" target="_blank">*Project Outstanding Contribution Award*</a> in SoundAI Technology Company
