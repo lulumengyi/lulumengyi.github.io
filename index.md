@@ -21,7 +21,7 @@ Outside of academia and industry, I have worked part-time as a **photographer**,
 - **Natural Language Processing:** dialogue system, semantic analysis, relation extraction
 - **Recommendation:** information retrieval, computational advertising, search engines
 - **Computer Systems:** data-mining, distributed systems, large-scale data processing
-- - **Human-Centric Technology:** EduTech, computational sociology
+- **Human-Centric Technology:** EduTech, human-computer interaction (HCI), computational sociology
 
 ## Awards
 - **[Jun. 2021]** <a href="" target="_blank">*Project Outstanding Contribution Award*</a> in SoundAI Technology Company
