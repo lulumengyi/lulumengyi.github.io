@@ -36,9 +36,9 @@ embedding pre-training for **user-behavior network**
 {% include_relative _includes/talks.md %}
 
 ## Competitions
-- **[Aug. 2020]** <a href="" target="_blank">*Question Answering Summarization and Inference Competition*</a> Baidu Ai Studio, **Ranking 11/1000**.
-- **[Jan. 2019]** <a href="" target="_blank">*Language and Intelligence Technology Competition-Information Extraction Task*</a> Baidu Ai Studio, **Ranking 12/1000**.
-- **[Aug. 2018]** <a href="" target="_blank">*Baidu Reading Comprehension Technology Competition*</a> Baidu Ai Studio, **Ranking 8/1000**.
+- **[Aug. 2020]** <a href="" target="_blank">*Question Answering Summarization and Inference Competition*</a> Baidu Ai Studio, ****.
+- **[Jan. 2019]** <a href="" target="_blank">*Language and Intelligence Technology Competition-Information Extraction Task*</a> Baidu Ai Studio, ****.
+- **[Aug. 2018]** <a href="" target="_blank">*Baidu Reading Comprehension Technology Competition*</a> Baidu Ai Studio, ****.
 
 ## Skills
 
