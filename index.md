@@ -15,8 +15,6 @@ From 2018 to 2020, I worked as a natural language processing algorithm engineer 
 embedding pre-training for **user-behavior network**
 
 
-Outside of academia and industry, I have worked part-time as a **photographer**, serving hundreds of clients. Additionally, I worked as an **outdoor guide** in Beijing. I’m also passionate about running. I have completed three **marathons** and multiple half-marathons. I also have a keen interest in cooking, reading, and writing.
-
 ## Research Interests
 - **Natural Language Processing:** dialogue system, semantic analysis, relation extraction
 - **Recommendation:** information retrieval, computational advertising, search engines
